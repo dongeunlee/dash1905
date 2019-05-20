@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "serverURL": "https://server190520.herokuapp.com/parse",
+    "appId": "LeeDG",
+    "masterKey": "dlehdrms11",
+    "appName": "195020",
+    "iconName": "",
+    "primaryBackgroundColor": "",
+    "secondaryBackgroundColor": ""
+  }],
+  "users" : [
+    {
+      "user" : "fkiller02094",
+      "pass" : "1234"
+    }]
+}
